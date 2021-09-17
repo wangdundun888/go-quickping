@@ -1,0 +1,2 @@
+# go-quickping
+bat ping
